@@ -78,7 +78,8 @@ text=(TextView)findViewById(R.id.text);
         }
         catch (Exception e)
         {
-
+//Hello Merge demo
+            System.out.println(" Exception e");
 
         }
 
