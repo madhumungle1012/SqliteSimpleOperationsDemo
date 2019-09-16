@@ -24,7 +24,7 @@ TextView text;
 
     SearchView searchView;
     ProductList feeds;
-
+String s= "Merge Exampole";
     RecyclerView recyclerView;
     ArrayList<ProductList> feedsList = new ArrayList<ProductList>();
     SubProduct_Adpter adapter;
